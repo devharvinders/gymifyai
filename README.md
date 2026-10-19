@@ -3,10 +3,10 @@
 **Effective date:** 19 October 2026  
 **Last updated:** 19 October 2026
 
-Gymify AI is operated by **[LEGAL BUSINESS / OPERATOR NAME]** ("we", "us" or "our"). This Privacy Policy explains how we collect, use, store, share and delete information when you connect a Facebook Page to Gymify AI or use its related content creation, scheduling and publishing features.
+Gymify AI is operated by GymifyAI ("we", "us" or "our"). This Privacy Policy explains how we collect, use, store, share and delete information when you connect a Facebook Page to Gymify AI or use its related content creation, scheduling and publishing features.
 
-**Privacy contact:** [PRIVACY EMAIL ADDRESS]  
-**Business address:** [BUSINESS POSTAL ADDRESS]
+**Privacy contact:** GymifyAI  
+**Business address:** C-156/1, Ward 1, Havelli Bassi , Banur, Tehsil and Disst Mohali, Punjab, India, Pincode - 140601
 
 ## 1. Scope
 
@@ -78,7 +78,7 @@ Revocation prevents future authorised access once it takes effect. A request alr
 
 ## 10. Data deletion requests and privacy rights
 
-To request deletion, email **[PRIVACY EMAIL ADDRESS]** with the subject **"Gymify AI Data Deletion Request"**. Include the connected Page or account ID, the name of the Page and enough information for us to identify your authorised Gymify account. Specify whether your request concerns a particular connection or all social publishing data associated with your account.
+To request deletion, email : dev.harvinders@gmail.com with the subject **"Gymify AI Data Deletion Request"**. Include the connected Page or account ID, the name of the Page and enough information for us to identify your authorised Gymify account. Specify whether your request concerns a particular connection or all social publishing data associated with your account.
 
 We may request reasonable verification that you control the account or Page. We will never require your Facebook password or access token for verification. Following verification, we will remove the relevant stored connection credentials and associated information covered by your request, subject to applicable legal requirements and the retention limitations described above. We will explain any information we must retain and respond within the period required by applicable law.
 
